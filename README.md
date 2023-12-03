@@ -1,6 +1,6 @@
 # 김혁일
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=warm)](https://solved.ac/rlagurdlf)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=dark)](https://solved.ac/rlagurdlf)
 ## 배우고 있는 것
 - ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![vue.js](https://img.shields.io/badge/vue.js-20232A?style=for-the-badge&logo=vue.js&logoColor=#4FC08D)  
