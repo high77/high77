@@ -1,4 +1,4 @@
-- # 김혁일
+# 김혁일
 - [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=blue)](https://solved.ac/rlagurdlf)
 - 배우고 있는 것
