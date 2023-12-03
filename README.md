@@ -8,4 +8,4 @@
 ## 배우고 싶은 것
 - ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ## 프로젝트
-1. SAM$UNG BVNK (SSAFY)
+1. [SAM$UNG BVNK (SSAFY)](https://github.com/hyeokil/SAMSUNG_BVNK_PJT)
