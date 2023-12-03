@@ -3,7 +3,7 @@
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=dark)](https://solved.ac/rlagurdlf)
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+  내가 지금 배우는 ... 
 </summary>
    <br>
   
