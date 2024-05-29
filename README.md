@@ -18,7 +18,9 @@
 -  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![vue.js](https://img.shields.io/badge/vue.js-20232A?style=for-the-badge&logo=vue.js&logoColor=#4FC08D)  
 
 ## 프로젝트
-1. [깅깅원정대 (SSAFY)](https://github.com/hyeokil/ggBro)
-2. [안쏭맞춤 (SSAFY)](https://github.com/hyeokil/Perfect_Fit)
-3. [PlanCard (SSAFY)](https://github.com/hyeokil/PlanCard)
-4. [SAM$UNG BVNK (SSAFY)](https://github.com/hyeokil/SAMSUNG_BVNK_PJT)
+| 프로젝트명 | 개요 | 담당업무 |
+| --- | --- | --- |
+| [깅깅원정대](https://github.com/hyeokil/ggBro) | 지속적인 플로깅 참여를 독려하기 위한 모바일 어플리케이션 | BackEnd/Infra |
+| [안쏭맞춤](https://github.com/hyeokil/Perfect_Fit)| 언제 어디서든 맞춤 음정을 제공하는 내 손안의 노래방 서비스 | BackEnd/Infra |
+| [PlanCard](https://github.com/hyeokil/PlanCard) | WebRTC, CRDT 기술을 활용한 실시간 여행 계획 웹 서비스  | BackEnd/Infra |
+| [SAM$UNG BVNK](https://github.com/hyeokil/SAMSUNG_BVNK_PJT) | 금융 상품 비교 및 추천 웹 서비스 | FullStack |
