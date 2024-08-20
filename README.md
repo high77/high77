@@ -1,6 +1,6 @@
 # 안녕하세요🙌 사용자의 행복을 최우선으로 생각하는 개발자 김혁일입니다!
 
-## [Problem I Solved (algorithm)](https://github.com/hyeokil/PIS)
+## [Problem Solving (algorithm)](https://github.com/hyeokil/PIS)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=dark)](https://solved.ac/rlagurdlf)
