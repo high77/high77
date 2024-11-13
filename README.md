@@ -1,4 +1,4 @@
-# 안녕하세요🙌 사용자의 행복을 최우선으로 생각하는 개발자 김혁일입니다!
+# 안녕하세요🙌 사용자의 행복을 최우선으로 생각하는 개발자입니다!
 
 ## [Problem Solving (algorithm)](https://github.com/hyeokil/PIS)
 
