@@ -2,8 +2,8 @@
 
 ## [Problem Solving (algorithm)](https://github.com/hyeokil/PIS)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=dark)](https://solved.ac/rlagurdlf)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagurdlf)](https://solved.ac/rlagurdlf)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagurdlf&theme=dark)](https://solved.ac/rlagurdlf) -->
 
 ## ❓ 저는요?   
 - **읽기 쉬운 코드**를 추구하며 다른 사람이 봐도 쉽게 이해할 수 있는 코드를 짜려고 매번 고민합니다. 
